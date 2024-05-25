@@ -1,0 +1,27 @@
+footer {
+  display: flex;
+  width: 100%;
+  height: auto;
+  background-color: black;
+  padding: 10px;
+  justify-content: space-between;
+}
+.logoFooter {
+  width: 8%;
+}
+.footerIzquierda {
+  display: flex;
+  align-items: center;
+  width: max-content;
+  gap: 10px;
+}
+.tituloFooter {
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+.footerRedes {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}

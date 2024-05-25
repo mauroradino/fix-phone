@@ -1,0 +1,22 @@
+.divFallaPlaca {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(16, 105, 183);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 300px;
+}
+.fallaPlacaImg {
+  width: 50%;
+}
+@media (max-width: 768px) {
+  .divFallaPlaca {
+    padding: 15px;
+  }
+  .fallaPlacaImg {
+    width: 50%;
+  }
+}

@@ -1,0 +1,9 @@
+.navLogoText {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-right: 50px;
+}
+.navbar {
+  box-shadow: 3px 3px rgba(104, 103, 103, 0.107);
+}

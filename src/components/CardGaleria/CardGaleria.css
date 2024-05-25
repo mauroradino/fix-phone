@@ -1,0 +1,39 @@
+.cardGaleria {
+  width: 20%;
+  border: 1px solid rgba(95, 95, 95, 0.503);
+  background-color: white;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+.btnPresupuestar {
+  display: flex;
+  margin: 0 auto;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(16, 105, 183);
+}
+.imagenCard {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.tituloCard {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .cardGaleria {
+    width: 35%;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .cardGaleria {
+    margin-top: 20px;
+    width: 35%;
+  }
+}

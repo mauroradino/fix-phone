@@ -1,0 +1,11 @@
+[
+    {"imagen": "https://phonefix.netlify.app/img/magsafe.jpg", "nombre": "MagSafe Cargador Inalámbrico", "precio": 10999},
+    {"imagen": "https://phonefix.netlify.app/img/cable.jpg", "nombre": "Cable Apple Lightning a USB (1m)", "precio": 9999},
+    {"imagen": "https://phonefix.netlify.app/img/airtag.jpg", "nombre": "AirTag Localizador", "precio": 12999},
+    {"imagen": "https://phonefix.netlify.app/img/cable.jpg", "nombre": "Cable Apple Lightning a USB (2m)", "precio": 14999},
+    {"imagen": "https://phonefix.netlify.app/img/funda.jpg", "nombre": "iPhone Silicon Case", "precio": 19999},
+    {"imagen": "https://phonefix.netlify.app/img/airpods2.jpg", "nombre": "AirPods - 2da Generación", "precio": 63999},
+    {"imagen": "https://phonefix.netlify.app/img/airpods3.jpg", "nombre": "AirPods - 3ra Generación", "precio": 94999},
+    {"imagen": "https://phonefix.netlify.app/img/adaptador35.jpg", "nombre": "Adaptador Apple USB-C a 3.5mm", "precio": 22999},
+    {"imagen": "https://phonefix.netlify.app/img/cable.jpg", "nombre": "Cable Apple Lightning a USB (3m)", "precio": 16999}
+]

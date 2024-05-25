@@ -1,0 +1,32 @@
+.homeWelcome {
+  padding-top: 100px;
+}
+.topHomeWelcome {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.textosHome {
+  width: 40%;
+}
+.tituloHome {
+  text-align: start;
+}
+.subtituloHome {
+  font-size: 15px;
+  text-align: left;
+}
+.franjaBajaHome {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(16, 105, 183);
+  color: white;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 15px;
+  width: max-content;
+  margin-top: 50px;
+}
+.imagenHome {
+  width: 20%;
+}

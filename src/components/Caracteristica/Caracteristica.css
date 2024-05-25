@@ -1,0 +1,36 @@
+.divCaracteristicas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10%;
+  justify-content: center;
+  margin-top: 150px;
+}
+.imagenCaracteristica {
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.caracteristica {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+}
+.subtitulo {
+  width: 60%;
+  font-weight: 400;
+  text-align: center;
+  font-size: 18px;
+}
+@media (max-width: 767px) {
+  .imagenCaracteristica {
+    width: 50%;
+  }
+  .titulo {
+    font-size: 15px;
+  }
+  .subtitulo {
+    font-size: 14px;
+    width: 70%;
+  }
+}

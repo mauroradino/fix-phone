@@ -1,0 +1,24 @@
+.divTituloAccesorios {
+  width: 90%;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 0 auto;
+  background-color: rgb(16, 105, 183);
+  margin-bottom: 80px;
+}
+.subtituloAccesorios,
+.tituloAccesorios {
+  color: white;
+  text-align: center;
+}
+.subtituloAccesorios {
+  font-size: 20px;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+@media (max-width: 767px) {
+  .subtituloAccesorios {
+    font-size: 15px;
+  }
+}

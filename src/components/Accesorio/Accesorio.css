@@ -1,0 +1,25 @@
+.accesorio {
+  width: 20%;
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.imagenAccesorio {
+  width: 60%;
+  margin: 20% 20%;
+}
+.tituloAccesorio {
+  font-size: 20px;
+  text-align: center;
+}
+.precioAccesorio {
+  font-size: 15px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .accesorio {
+    width: 40%;
+  }
+}

@@ -1,0 +1,61 @@
+.divInicio {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+.textosInicio {
+  display: flex;
+  flex-direction: column;
+  align-items: self-start;
+}
+.tituloInicio {
+  font-size: 50px;
+}
+.textoInicio1,
+.textoInicio2,
+.textoInicio3 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+.btnPresupuestarInicio {
+  background-color: rgb(16, 105, 183);
+  color: white;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 15px;
+  width: max-content;
+  border: none;
+}
+@media (max-width: 767px) {
+  .divInicio {
+    flex-direction: column-reverse;
+    padding-top: 50px;
+  }
+  .tituloInicio {
+    font-size: 35px;
+  }
+  .imagenInicio {
+    width: 50%;
+  }
+  .textosInicio {
+    align-items: center;
+  }
+  .textoInicio1,
+  .textoInicio2 {
+    display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .imagenInicio {
+    width: 40%;
+  }
+}
+@media (min-width: 1024px) {
+  .imagenInicio {
+    width: 30%;
+  }
+}

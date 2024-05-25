@@ -1,0 +1,6 @@
+[
+    {"imagen": "https://phonefix.netlify.app/img/time.png", "titulo": "Reparación Express", "subtitulo": "En menos de 30 minutos solucionamos tu problema"},
+    {"imagen": "https://phonefix.netlify.app/img/warranty.png", "titulo": "Garantía de 90 días", "subtitulo": "Ofrecemos garantía en todos nuestros trabajos"},
+    {"imagen": "https://phonefix.netlify.app/img/lab.png", "titulo": "Laboratorio Moderno", "subtitulo": "Contamos con un laboratorio con lo ultimo en tecnología"},
+    {"imagen": "https://phonefix.netlify.app/img/chat.png", "titulo": "Asistencia Online", "subtitulo": "Contamos con asistencia al cliente las 24 horas"}
+]

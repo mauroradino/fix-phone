@@ -1,0 +1,36 @@
+.opinion {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(16, 105, 183);
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 20px;
+  width: 30%;
+}
+.imagenOpinion {
+  width: 20%;
+  margin: 0 auto;
+}
+.textoOpinion {
+  color: white;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 400;
+}
+.tituloOpinion {
+  color: white;
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .opinion {
+    width: 40%;
+  }
+}
+@media (max-width: 767px) {
+  .opinion {
+    width: 70%;
+  }
+  .textoOpinion {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+}
